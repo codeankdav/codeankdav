@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 <h3 align="center">A Passionate Frontend Developer(Debugging the world)</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif"> -->
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
