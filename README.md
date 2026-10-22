@@ -13,7 +13,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,angular,py,java,c,ruby,swift,nodejs,mysql,postgres,mongodb,aws,git,figma,postman&perline=7" alt="My Skills Grid" />
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue,angular,py,java,c,ruby,swift,nodejs,mysql,postgres,mongodb,aws,git,figma,postman&perline=7" alt="My Skills Grid" /> -->
+<img src="https://skillicons.dev/icons?
+i=html,css,java,c,mysql,git&perline=7" alt="My Skills Grid" />
 </p>
 <br><br>
 
