@@ -12,11 +12,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue,angular,py,java,c,ruby,swift,nodejs,mysql,postgres,mongodb,aws,git,figma,postman&perline=7" alt="My Skills Grid" /> -->
-<img src="https://skillicons.dev/icons?
+<!-- <img src="https://skillicons.dev/icons?dev" alt="My Skills Grid" />
   i=html,css,java,c,mysql,git&perline=7" alt="My Skills Grid" />
+</p> -->
+<p align="center">
+  <img src="https://skillicons.dev" alt="My Skills Grid" />
 </p>
+
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Developer;Cloud+%26+DevOps+Learner" />
